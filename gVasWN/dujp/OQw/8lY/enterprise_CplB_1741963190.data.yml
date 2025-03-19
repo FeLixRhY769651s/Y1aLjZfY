@@ -7,5 +7,4 @@ pull_request_rules:
       - -files~=^(?!^docs).*
       - label=doc-merge
     actions:
-      merge:
         method: rebase
