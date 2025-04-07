@@ -3,4 +3,3 @@
 secrets/**
 cloudbuild.yaml
 docker-compose.yml
-Dockerfile
